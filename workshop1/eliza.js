@@ -128,7 +128,7 @@ var rules = {
   ],
   "~*x no ~*y": [
     "Why not?",
-    "You are being a bit negative.",
+    "Don't look at the glass half full",
     "Are you saying 'No' just to be negative?",
   ],
   "~*x I was ~*y": [
